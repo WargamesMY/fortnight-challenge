@@ -14,6 +14,6 @@ Online Walkthrough Session Live
 Participant writeups:
 
 - [Hong Wei](https://github.com/Hong5489/WgmyFortnight/tree/master/keygenme)
-- [H0j3n](https://github.com/WargamesMY/fortnight-challenge/blob/master/WGMY%20Fortnight%20Challenge%20#0402%20-%20H0j3n.pdf)
-- [Mulhein](https://github.com/WargamesMY/fortnight-challenge/blob/master/wgmy2uni-keygenME%20-%20mulhein.pdf)
-- [Aiman](https://github.com/WargamesMY/fortnight-challenge/blob/master/WGMY_Fortnight_Challenge#0402%20-%20aiman.pdf)
+- [H0j3n](https://github.com/WargamesMY/fortnight-challenge/blob/master/0402%20-%20KeygenMe/WGMY%20Fortnight%20Challenge%20%230402%20-%20H0j3n.pdf)
+- [Mulhein](https://github.com/WargamesMY/fortnight-challenge/blob/master/0402%20-%20KeygenMe/wgmy2uni-keygenME%20-%20mulhein.pdf)
+- [Aiman](https://github.com/WargamesMY/fortnight-challenge/blob/master/0402%20-%20KeygenMe/WGMY_Fortnight_Challenge%230402%20-%20aiman.pdf)
